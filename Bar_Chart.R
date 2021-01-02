@@ -31,3 +31,4 @@ barplot(Z,
         space = 0.04,
         font.axis = 2,
         xlab = "group")
+
